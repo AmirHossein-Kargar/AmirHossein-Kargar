@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">My name is Amir and I'm a Developer from Iran</h3>
+<h3 align="center">My name is Amir and I'm a Developer</h3>
 
 ###
 
